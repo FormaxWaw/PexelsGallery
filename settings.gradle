@@ -1,0 +1,2 @@
+rootProject.name='PexelsGallery'
+include ':Pexels Gallery'

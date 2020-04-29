@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pexels Gallery</string>
+    <string name="main_photo">main photo</string>
+    <string name="latest">Latest</string>
+    <string name="popular">Popular</string>
+    <string name="sort">Sort</string>
+    <string name="curated">Curated photos</string>
+    <string name="search">Search</string>
+    <string name="random">Random photo</string>
+    <string name="no_results">No results</string>
+    <string name="curated_photos">Curated photos</string>
+    <string name="by_mariusz_rybski">by Mariusz Rybski</string>
+    <string name="photo_by">Photo by: %1$s</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="by">By</string>
+    <string name="downloading">Downloading</string>
+    <string name="original">Original size</string>
+    <string name="small">Small size</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="no_more_results">No more results</string>
+    <string name="favorites">Favorites</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="saved_photos">Saved photos</string>
+    <string name="bookmark_icon">bookmarkicon</string>
+</resources>
